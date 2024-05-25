@@ -5,10 +5,7 @@ This project leverages Generative Adversarial Networks (GANs) to create syntheti
 ## Table of Contents
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -29,3 +26,14 @@ To run this project, you'll need:
 These libraries can be installed via pip:
 ```sh
 pip install tensorflow numpy matplotlib scikit-learn
+```
+
+## Results
+### Some Original Images
+![image](https://github.com/Kaustic-user/Breast-Cancer-Dataset-Image-Generation-using-GANs/assets/118257539/74985b18-e3b5-4b08-85c6-3b64cdbd7ab6)
+
+### Generated Images
+![image](https://github.com/Kaustic-user/Breast-Cancer-Dataset-Image-Generation-using-GANs/assets/118257539/645f9ace-4cce-4163-a2c7-34acbb0887ce)
+![image](https://github.com/Kaustic-user/Breast-Cancer-Dataset-Image-Generation-using-GANs/assets/118257539/4bbd7109-be28-474d-9934-5436838de06f)
+![image](https://github.com/Kaustic-user/Breast-Cancer-Dataset-Image-Generation-using-GANs/assets/118257539/652dc284-53b9-4e06-9e7c-5a51162c0d6c)
+
