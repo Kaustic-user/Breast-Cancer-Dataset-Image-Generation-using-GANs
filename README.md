@@ -22,6 +22,7 @@ To run this project, you'll need:
   - NumPy
   - Matplotlib
   - Scikit-learn
+- CBIS-DDSM Dataset : https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset/data (Note : In the code, data is in 'bcancer_dataset' folder in google drive which has 'Benign' and 'Malignant' folders in it.)
 
 These libraries can be installed via pip:
 ```sh
